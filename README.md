@@ -1,2 +1,2 @@
 # oslp
-Open source learning - Dutch integration program
+Open source learning program - Dutch integration program
